@@ -8,7 +8,7 @@ A starter template to build completely static websites with [Ghost](https://ghos
 
 ```bash
 # From Source
-git clone https://github.com/TryGhost/eleventy-starter-ghost.git
+git clone <repo>
 cd eleventy-starter-ghost
 ```
 
